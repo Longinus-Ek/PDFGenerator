@@ -3,7 +3,14 @@
 # Instalação
 
 ```
-composer install 
+composer require longinus/pdf-generator
+```
+
+# Utilização
+
+@php
+```
+
 ```
 
 # Autor
