@@ -1,6 +1,7 @@
 {
     "name": "longinus/pdf-generator",
     "description": "This is an package available to easy generate pdfs with Package Mpdf/mpdf on laravel >= 9.x",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Longinus\\PdfGenerator\\": "src/"
