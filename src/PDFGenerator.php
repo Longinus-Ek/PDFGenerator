@@ -1,9 +1,8 @@
 <?php
 
-namespace Longi;
+namespace Longinus\PdfGenerator;
 
 use Illuminate\View\View;
-use MongoDB\Laravel\Eloquent\Model;
 use Mpdf\Mpdf;
 use Mpdf\MpdfException;
 
@@ -38,7 +37,6 @@ class PDFGenerator extends Mpdf
     /**
      * @param string $tela
      * @param string $nomeView
-     * @param Model $dadosObj
      * @return void
      * @throws MpdfException
      */

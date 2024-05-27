@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "*",
         "mpdf/mpdf": "^8.2.3"
     },
     "minimum-stability": "stable",
